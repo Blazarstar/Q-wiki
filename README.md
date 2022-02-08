@@ -1,0 +1,2 @@
+# Q-wiki
+self wiki
